@@ -1,0 +1,33 @@
+.venv/
+dataset/
+checkpoints/
+__pycache__/
+*.pyc
+*.pt
+*.pth
+dataset_handover.zip*
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+.env.*
+
+# Heavy model/data files
+*.pt
+*.pth
+*.ckpt
+*.npy
+*.tif
+*.tiff
+*.zip
+
+# Large local folders
+external/
+dataset/
+outputs/
+ORBITRACE/outputs/
+

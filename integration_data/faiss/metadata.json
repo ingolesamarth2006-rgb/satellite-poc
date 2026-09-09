@@ -1,0 +1,3202 @@
+[
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_001.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_002.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_003.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_004.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_005.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_006.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_007.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_008.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_009.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_010.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_011.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_012.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_013.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_014.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_015.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_016.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_017.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_018.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_019.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_020.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_021.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_022.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_023.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_024.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_025.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_026.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_027.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_028.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_029.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_030.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_031.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_032.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_033.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_034.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_035.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_036.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_037.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_038.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_039.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_040.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_041.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_042.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_043.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_044.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_045.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_046.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_047.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_048.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_049.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_050.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_051.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_052.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_053.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_054.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_055.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_056.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_057.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_058.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_059.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_060.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_061.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_062.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_063.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_064.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_065.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_066.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_067.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_068.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_069.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_070.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_071.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_072.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_073.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_074.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_075.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_076.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_077.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_078.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_079.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_080.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_081.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_082.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_083.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_084.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_085.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_086.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_087.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_088.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_089.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_090.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_091.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_092.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_093.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_094.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_095.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_096.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_097.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_098.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_099.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\AnnualCrop\\AnnualCrop_100.jpg",
+    "category": "AnnualCrop"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_001.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_002.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_003.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_004.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_005.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_006.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_007.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_008.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_009.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_010.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_011.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_012.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_013.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_014.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_015.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_016.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_017.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_018.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_019.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_020.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_021.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_022.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_023.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_024.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_025.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_026.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_027.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_028.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_029.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_030.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_031.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_032.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_033.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_034.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_035.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_036.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_037.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_038.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_039.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_040.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_041.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_042.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_043.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_044.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_045.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_046.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_047.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_048.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_049.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_050.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_051.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_052.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_053.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_054.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_055.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_056.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_057.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_058.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_059.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_060.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_061.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_062.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_063.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_064.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_065.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_066.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_067.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_068.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_069.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_070.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_071.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_072.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_073.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_074.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_075.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_076.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_077.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_078.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_079.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_080.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_081.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_082.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_083.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_084.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_085.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_086.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_087.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_088.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_089.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_090.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_091.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_092.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_093.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_094.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_095.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_096.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_097.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_098.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_099.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Forest\\Forest_100.jpg",
+    "category": "Forest"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_001.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_002.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_003.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_004.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_005.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_006.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_007.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_008.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_009.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_010.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_011.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_012.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_013.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_014.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_015.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_016.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_017.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_018.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_019.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_020.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_021.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_022.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_023.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_024.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_025.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_026.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_027.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_028.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_029.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_030.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_031.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_032.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_033.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_034.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_035.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_036.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_037.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_038.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_039.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_040.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_041.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_042.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_043.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_044.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_045.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_046.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_047.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_048.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_049.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_050.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_051.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_052.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_053.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_054.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_055.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_056.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_057.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_058.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_059.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_060.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_061.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_062.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_063.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_064.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_065.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_066.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_067.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_068.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_069.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_070.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_071.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_072.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_073.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_074.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_075.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_076.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_077.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_078.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_079.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_080.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_081.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_082.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_083.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_084.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_085.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_086.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_087.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_088.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_089.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_090.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_091.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_092.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_093.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_094.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_095.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_096.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_097.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_098.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_099.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Highway\\Highway_100.jpg",
+    "category": "Highway"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_001.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_002.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_003.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_004.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_005.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_006.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_007.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_008.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_009.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_010.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_011.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_012.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_013.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_014.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_015.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_016.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_017.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_018.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_019.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_020.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_021.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_022.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_023.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_024.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_025.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_026.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_027.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_028.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_029.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_030.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_031.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_032.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_033.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_034.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_035.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_036.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_037.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_038.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_039.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_040.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_041.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_042.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_043.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_044.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_045.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_046.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_047.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_048.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_049.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_050.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_051.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_052.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_053.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_054.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_055.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_056.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_057.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_058.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_059.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_060.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_061.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_062.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_063.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_064.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_065.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_066.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_067.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_068.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_069.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_070.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_071.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_072.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_073.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_074.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_075.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_076.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_077.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_078.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_079.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_080.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_081.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_082.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_083.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_084.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_085.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_086.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_087.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_088.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_089.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_090.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_091.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_092.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_093.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_094.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_095.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_096.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_097.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_098.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_099.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\Industrial\\Industrial_100.jpg",
+    "category": "Industrial"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_001.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_002.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_003.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_004.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_005.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_006.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_007.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_008.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_009.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_010.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_011.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_012.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_013.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_014.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_015.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_016.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_017.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_018.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_019.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_020.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_021.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_022.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_023.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_024.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_025.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_026.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_027.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_028.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_029.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_030.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_031.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_032.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_033.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_034.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_035.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_036.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_037.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_038.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_039.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_040.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_041.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_042.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_043.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_044.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_045.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_046.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_047.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_048.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_049.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_050.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_051.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_052.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_053.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_054.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_055.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_056.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_057.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_058.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_059.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_060.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_061.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_062.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_063.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_064.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_065.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_066.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_067.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_068.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_069.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_070.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_071.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_072.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_073.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_074.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_075.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_076.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_077.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_078.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_079.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_080.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_081.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_082.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_083.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_084.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_085.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_086.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_087.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_088.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_089.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_090.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_091.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_092.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_093.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_094.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_095.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_096.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_097.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_098.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_099.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\PermanentCrop\\PermanentCrop_100.jpg",
+    "category": "PermanentCrop"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_001.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_002.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_003.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_004.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_005.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_006.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_007.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_008.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_009.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_010.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_011.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_012.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_013.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_014.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_015.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_016.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_017.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_018.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_019.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_020.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_021.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_022.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_023.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_024.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_025.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_026.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_027.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_028.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_029.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_030.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_031.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_032.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_033.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_034.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_035.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_036.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_037.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_038.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_039.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_040.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_041.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_042.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_043.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_044.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_045.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_046.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_047.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_048.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_049.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_050.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_051.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_052.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_053.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_054.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_055.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_056.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_057.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_058.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_059.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_060.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_061.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_062.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_063.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_064.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_065.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_066.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_067.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_068.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_069.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_070.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_071.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_072.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_073.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_074.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_075.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_076.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_077.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_078.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_079.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_080.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_081.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_082.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_083.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_084.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_085.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_086.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_087.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_088.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_089.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_090.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_091.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_092.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_093.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_094.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_095.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_096.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_097.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_098.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_099.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\Residential\\Residential_100.jpg",
+    "category": "Residential"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_001.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_002.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_003.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_004.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_005.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_006.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_007.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_008.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_009.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_010.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_011.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_012.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_013.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_014.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_015.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_016.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_017.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_018.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_019.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_020.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_021.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_022.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_023.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_024.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_025.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_026.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_027.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_028.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_029.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_030.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_031.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_032.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_033.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_034.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_035.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_036.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_037.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_038.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_039.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_040.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_041.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_042.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_043.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_044.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_045.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_046.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_047.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_048.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_049.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_050.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_051.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_052.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_053.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_054.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_055.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_056.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_057.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_058.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_059.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_060.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_061.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_062.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_063.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_064.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_065.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_066.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_067.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_068.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_069.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_070.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_071.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_072.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_073.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_074.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_075.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_076.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_077.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_078.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_079.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_080.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_081.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_082.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_083.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_084.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_085.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_086.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_087.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_088.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_089.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_090.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_091.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_092.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_093.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_094.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_095.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_096.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_097.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_098.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_099.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\River\\River_100.jpg",
+    "category": "River"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_001.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_002.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_003.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_004.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_005.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_006.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_007.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_008.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_009.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_010.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_011.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_012.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_013.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_014.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_015.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_016.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_017.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_018.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_019.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_020.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_021.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_022.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_023.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_024.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_025.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_026.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_027.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_028.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_029.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_030.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_031.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_032.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_033.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_034.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_035.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_036.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_037.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_038.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_039.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_040.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_041.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_042.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_043.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_044.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_045.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_046.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_047.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_048.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_049.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_050.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_051.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_052.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_053.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_054.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_055.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_056.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_057.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_058.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_059.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_060.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_061.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_062.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_063.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_064.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_065.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_066.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_067.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_068.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_069.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_070.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_071.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_072.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_073.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_074.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_075.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_076.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_077.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_078.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_079.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_080.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_081.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_082.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_083.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_084.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_085.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_086.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_087.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_088.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_089.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_090.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_091.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_092.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_093.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_094.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_095.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_096.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_097.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_098.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_099.jpg",
+    "category": "SeaLake"
+  },
+  {
+    "path": "dataset\\semantic\\SeaLake\\SeaLake_100.jpg",
+    "category": "SeaLake"
+  }
+]
