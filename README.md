@@ -1,256 +1,194 @@
 <div align="center">
 
-🛰️ ORBITRACE
+# 🛰️ ORBITRACE
 
-Semantic Retrieval & Multi-Temporal Change Intelligence for Satellite Imagery
+### Semantic Retrieval & Multi-Temporal Change Intelligence for Satellite Imagery
 
-Search satellite imagery with natural language. Discover the right AOI. Compare dates. Detect urban change. Produce geospatial evidence.
+**Search satellite imagery with natural language. Discover the right AOI. Compare dates. Detect urban change. Generate geospatial evidence.**
 
-
-
-
-
-
-
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
+![RemoteCLIP](https://img.shields.io/badge/RemoteCLIP-RN50-7B61FF)
+![FAISS](https://img.shields.io/badge/Vector_Search-FAISS-00A67E)
+![Rasterio](https://img.shields.io/badge/Geospatial-Rasterio-4C9F38)
+![SpaceNet](https://img.shields.io/badge/Dataset-SpaceNet--7-F97316)
+![Status](https://img.shields.io/badge/Status-Validated_POC-success)
 
 </div>
 
-🌍 What is ORBITRACE?
+---
 
-ORBITRACE is an AI-powered satellite intelligence platform designed to make large satellite archives easier to search, understand and compare.
+## 🌍 About ORBITRACE
 
-Instead of manually browsing thousands of images, an analyst can write a query such as:
+**ORBITRACE** is an AI-powered satellite intelligence platform designed for:
 
-“Find urban regions with recent construction.”
+- semantic satellite-image retrieval
+- multi-temporal observation analysis
+- geospatial metadata extraction
+- urban/building change detection
+- evidence generation
 
-ORBITRACE then:
+Instead of manually searching large satellite archives, a user can simply ask:
 
-understands the query using RemoteCLIP
+> **“Find regions showing new construction near dense urban areas.”**
 
-retrieves semantically relevant satellite observations
+ORBITRACE retrieves relevant satellite imagery and connects it with temporal observations and change-analysis results.
 
-resolves AOI, date and geographic location
+---
 
-selects temporal observations for comparison
+# ⚡ Core Pipeline
 
-analyzes built-up change using a SpaceNet-7 HRNet-W48 branch
-
-produces visual and quantitative evidence
-
-⚡ Core Pipeline
-
+```mermaid
 flowchart LR
-    A["Natural Language Query"] --> B["RemoteCLIP RN50"]
-    B --> C["FAISS Vector Search"]
-    C --> D["Relevant AOI / Observation"]
-    D --> E["Geospatial Metadata"]
-    E --> F["Temporal Pairing"]
-    F --> G["HRNet-W48 Change Engine"]
-    G --> H["Added / Removed Buildings"]
-    H --> I["Map + Overlay + Metrics + Evidence"]
 
-🎯 Why ORBITRACE?
+A["Natural Language Query"]
+--> B["RemoteCLIP RN50"]
 
-Satellite data is abundant, but finding the right scene and extracting useful change evidence is still time-consuming.
+B --> C["FAISS Vector Search"]
 
-Traditional workflows often require an analyst to:
+C --> D["Relevant Satellite Observation"]
 
-manually locate relevant images
+D --> E["AOI + Geographic Metadata"]
 
-inspect metadata separately
+E --> F["Temporal Observation Pairing"]
 
-identify matching dates
+F --> G["HRNet-W48 Change Engine"]
 
-run change-detection tools independently
+G --> H["Added / Removed Buildings"]
 
-interpret outputs manually
+H --> I["Map + Overlay + Metrics + Evidence"]
+```
 
-ORBITRACE connects these steps into one searchable geospatial intelligence workflow.
+---
 
-✨ Current Capabilities
+# 🧠 AI Architecture
 
-Capability
+## 1. RemoteCLIP — Semantic Retrieval
 
-Status
+RemoteCLIP understands both:
 
-Natural-language satellite retrieval
+```text
+TEXT
++
+SATELLITE IMAGE
+```
 
-✅ Working
+inside a shared embedding space.
 
-RemoteCLIP RN50 embeddings
+Example query:
 
-✅ Working
+```text
+forest with winding roads
+```
 
-Semantic similarity ranking
+Pipeline:
 
-✅ Working
+```text
+Query
+   ↓
+RemoteCLIP
+   ↓
+Text Embedding
+   ↓
+Similarity Search
+   ↓
+Satellite Image Embeddings
+```
 
-FAISS vector retrieval
+This enables retrieval based on **meaning instead of filename or manually assigned tags**.
 
-✅ POC tested
+---
 
-GeoTIFF metadata extraction
+## 2. FAISS — Fast Vector Search
 
-✅ Working
+Satellite-image embeddings are generated once and stored inside a FAISS index.
 
-CRS / bounds / lat-lon extraction
-
-✅ Working
-
-Reverse geocoding
-
-✅ Working
-
-RGB preview generation
-
-✅ Working
-
-Multi-date AOI catalog
-
-✅ Working
-
-HRNet-W48 building-change branch
-
-✅ Validated POC
-
-Added / removed building masks
-
-✅ Working
-
-Local frozen HRNet post-processing
-
-✅ Working
-
-Unified backend API
-
-🚧 In progress
-
-Frontend integration
-
-🚧 In progress
-
-Full archive scale-up
-
-🚧 Planned
-
-🧠 AI / ML Stack
-
-1. RemoteCLIP — Semantic Satellite Retrieval
-
-RemoteCLIP maps both text and satellite imagery into the same embedding space.
-
-"forest with winding roads"
-          │
-          ▼
-     RemoteCLIP
-          │
-          ▼
-     Text Embedding
-          │
-          ├──────── similarity ────────┐
-          │                            │
-Satellite Image → RemoteCLIP → Image Embedding
-
-This allows ORBITRACE to retrieve imagery by meaning, not just filenames or tags.
-
-2. FAISS — Fast Vector Search
-
-For a large archive, image embeddings are generated once and stored in a FAISS index.
-
-Satellite Archive
-      ↓
-RemoteCLIP Embeddings
-      ↓
+```text
+Satellite Images
+       ↓
+RemoteCLIP
+       ↓
+Image Embeddings
+       ↓
 FAISS Index
-      ↑
-Query Embedding
+       ↑
+Text Embedding
+```
 
-This avoids encoding every image again for every query.
+This allows ORBITRACE to scale semantic retrieval to large satellite archives.
 
-3. HRNet-W48 — Built-Up Change Detection
+---
 
-The construction-change branch is based on the SpaceNet-7 1-lxastro0 HRNet-W48 solution, selected because it is native to the same multi-temporal urban-development domain.
+## 3. HRNet-W48 — Building Change Intelligence
+
+For built-up / construction analysis, ORBITRACE uses a SpaceNet-7 domain-specific HRNet-W48 branch.
 
 Current frozen POC configuration:
 
-Scale                : 3×
-Inference patch       : 512 × 512
-Patch overlap         : None
-Building threshold    : 0.35
-Minimum component     : 100 pixels
+```text
+Model              : SpaceNet-7 lxastro0 HRNet-W48
+Image Scale        : 3×
+Patch Size         : 512 × 512
+Patch Overlap      : None
+Building Threshold : 0.35
+Minimum Component  : 100 pixels
+```
 
-The system derives:
+The change engine can derive:
 
-persistent built-up regions
+```text
+Persistent Buildings
+Added Buildings
+Removed Buildings
+Change Mask
+Change Overlay
+Pixel Statistics
+```
 
-added buildings
+---
 
-removed buildings
+# 📊 Validation Snapshot
 
-change overlays
+## Development AOI
 
-pixel-level change statistics
-
-The current metrics are limited POC validation results, not production accuracy claims.
-
-📊 Validation Snapshot
-
-Development AOI
-
+```text
 L15-1669E-1160N_6679_3549_13
+```
 
-Metric
+| Metric | Added Building Detection |
+|---|---:|
+| Precision | 0.4626 |
+| Recall | 0.6137 |
+| F1 Score | **0.5276** |
+| IoU | **0.3583** |
 
-Added Buildings
+---
 
-Precision
+## Unseen AOI
 
-0.4626
-
-Recall
-
-0.6137
-
-F1
-
-0.5276
-
-IoU
-
-0.3583
-
-Unseen AOI
-
+```text
 L15-1615E-1206N_6460_3366_13
+```
 
-Using the same frozen parameters with no retuning:
+Using the **same frozen configuration without retuning**:
 
-Metric
+| Metric | Added Building Detection |
+|---|---:|
+| Precision | 0.4598 |
+| Recall | 0.6170 |
+| F1 Score | **0.5269** |
+| IoU | **0.3577** |
 
-Added Buildings
+> These are limited POC validation results and should not be interpreted as production-grade accuracy.
 
-Precision
+---
 
-0.4598
+# 🗺️ Geospatial Intelligence
 
-Recall
+ORBITRACE extracts geographic information directly from GeoTIFF imagery using Rasterio.
 
-0.6170
+Example metadata:
 
-F1
-
-0.5269
-
-IoU
-
-0.3577
-
-This close development-vs-unseen performance is encouraging for the current prototype configuration.
-
-🗺️ Geospatial Intelligence
-
-Each GeoTIFF observation can be converted into structured metadata:
-
+```json
 {
   "aoi_id": "L15-1670E-1159N_6681_3552_13",
   "date": "2018_09",
@@ -261,33 +199,64 @@ Each GeoTIFF observation can be converted into structured metadata:
   "state": "Guangdong",
   "country": "China"
 }
+```
 
-ORBITRACE can therefore return not only an image, but also where it is, when it was captured and what changed.
+The platform can therefore return:
 
-🧪 Mini End-to-End Test Archive
+```text
+Satellite Image
++
+Observation Date
++
+AOI
++
+Latitude / Longitude
++
+City / State / Country
++
+Change Evidence
+```
 
-The current integration test uses:
+---
 
+# 🧪 Current Mini Integration Archive
+
+Current system-level testing uses:
+
+```text
 3 AOIs
 ×
-2 temporal observations
+2 observations each
 =
-6 real GeoTIFF satellite scenes
+6 GeoTIFF satellite observations
+```
 
-Local heavy data is intentionally stored outside OneDrive/Git:
+Heavy satellite data is intentionally stored outside the Git repository:
 
-C:\ORBITRACE_DATA\
+```text
+C:\ORBITRACE_DATA
+```
 
 Example:
 
+```text
 C:\ORBITRACE_DATA
+│
 ├── mini_archive
 ├── mini_previews
-├── hrnet
-└── mini_catalog.json
+├── mini_catalog.json
+├── mini_catalog.csv
+│
+└── hrnet
+    ├── development
+    └── local_validation
+```
 
-🏗️ Project Structure
+---
 
+# 🏗️ Project Structure
+
+```text
 satellite-poc/
 │
 ├── core/
@@ -298,11 +267,12 @@ satellite-poc/
 │   └── change_detection*.py
 │
 ├── ORBITRACE/
+│
 │   ├── backend/
 │   │   ├── api/
+│   │   ├── semantic_search/
 │   │   ├── change_detection/
 │   │   ├── geospatial/
-│   │   ├── semantic_search/
 │   │   └── services/
 │   │
 │   ├── config/
@@ -310,6 +280,7 @@ satellite-poc/
 │   ├── frontend/
 │   ├── models/
 │   ├── outputs/
+│   │
 │   └── scripts/
 │       ├── build_mini_catalog.py
 │       ├── test_mini_semantic.py
@@ -317,238 +288,484 @@ satellite-poc/
 │
 ├── images/
 ├── integration_data/
-└── tests...
+│
+└── README.md
+```
 
-🚀 Quick Start
+---
 
-1. Create / activate environment
+# 🔎 Example ORBITRACE Workflow
 
+User enters:
+
+```text
+Find areas with recent construction near urban regions
+```
+
+ORBITRACE executes:
+
+```text
+Natural Language Query
+        ↓
+RemoteCLIP
+        ↓
+Text Embedding
+        ↓
+FAISS
+        ↓
+Relevant Satellite Scene
+        ↓
+AOI Identification
+        ↓
+Geographic Metadata
+        ↓
+Available Temporal Observations
+        ↓
+T1 / T2 Pairing
+        ↓
+HRNet-W48
+        ↓
+Added / Removed Buildings
+        ↓
+Change Overlay
+        ↓
+Evidence + Location + Metrics
+```
+
+---
+
+# ✨ Current Capabilities
+
+| Capability | Status |
+|---|---|
+| Natural-language satellite search | ✅ |
+| RemoteCLIP RN50 | ✅ |
+| Semantic ranking | ✅ |
+| FAISS retrieval | ✅ POC |
+| GeoTIFF processing | ✅ |
+| CRS extraction | ✅ |
+| Lat/Lon extraction | ✅ |
+| Reverse geocoding | ✅ |
+| English location metadata | ✅ |
+| RGB preview generation | ✅ |
+| Multi-date AOI catalog | ✅ |
+| HRNet-W48 probability maps | ✅ |
+| Added building mask | ✅ |
+| Removed building mask | ✅ |
+| Change overlay | ✅ |
+| Local HRNet adapter | ✅ |
+| Automatic T1/T2 pairing | 🚧 |
+| Unified pipeline | 🚧 |
+| Backend APIs | 🚧 |
+| Web dashboard | 🚧 |
+
+---
+
+# 🏆 Winner-Level Intelligence Features
+
+These features are part of the locked ORBITRACE roadmap.
+
+## 1. Earliest Evidence Discovery
+
+Instead of simply comparing two dates, ORBITRACE will scan the observation timeline.
+
+```text
+2017_07 → No Change
+2017_08 → No Change
+2017_09 → Possible Change
+2017_10 → Confirmed Development
+```
+
+Result:
+
+```text
+Earliest Reliable Evidence:
+October 2017
+```
+
+---
+
+## 2. Evidence Timeline
+
+Each AOI will have a temporal evidence timeline.
+
+```text
+2017 ───── 2018 ───── 2019 ───── 2020
+  ●          ●     ●       ●
+```
+
+This allows analysts to understand **how a location evolved through time**.
+
+---
+
+## 3. Explainable Semantic Search
+
+Instead of returning only:
+
+```text
+Similarity Score: 0.82
+```
+
+ORBITRACE aims to explain why the result matched.
+
+Example:
+
+```text
+Matched Concepts
+
+✓ Dense Buildings
+✓ Forested Terrain
+✓ Developing Road Network
+```
+
+---
+
+## 4. Change Reliability Gate
+
+Before accepting change results, ORBITRACE can verify imagery quality.
+
+```text
+Registration Quality        GOOD
+Cloud Obstruction           LOW
+Temporal Compatibility      GOOD
+Change Confidence           HIGH
+```
+
+If the imagery pair is unreliable:
+
+```text
+Analysis Withheld
+
+Reason:
+Cloud obstruction / registration mismatch
+```
+
+---
+
+## 5. Evidence Card / Investigation Report
+
+Each change event can generate a structured evidence report.
+
+Example:
+
+```text
+ORBITRACE EVENT #0042
+
+Location:
+Guangzhou City, Guangdong, China
+
+AOI:
+L15-1670E-1159N_6681_3552_13
+
+Observation T1:
+September 2018
+
+Observation T2:
+September 2019
+
+Detected:
+New Built-Up Development
+
+Change Confidence:
+High
+
+Model:
+HRNet-W48
+
+Data Source:
+SpaceNet-7
+```
+
+The report can later contain:
+
+```text
+Before Image
+After Image
+Change Mask
+Overlay
+Map
+Coordinates
+Area Changed
+Change Percentage
+Model Parameters
+```
+
+---
+
+# 💡 Future Capability — Similar Site Discovery
+
+Once ORBITRACE detects an interesting change event:
+
+```text
+Find Similar Changes
+```
+
+The system can search the indexed satellite archive for other locations showing similar development patterns.
+
+This combines:
+
+```text
+Semantic Retrieval
++
+Temporal Change Intelligence
+```
+
+---
+
+# 📦 Dataset Strategy
+
+Current primary satellite source:
+
+## SpaceNet-7
+
+Accessible public archive inspected during development:
+
+```text
+Training AOIs     : 60
+Public Test AOIs  : 20
+-----------------------
+Accessible AOIs   : 80
+```
+
+The architecture is designed so scaling from:
+
+```text
+3 AOIs
+```
+
+to:
+
+```text
+80+ AOIs
+Thousands of Observations
+```
+
+requires batch processing rather than rewriting the application.
+
+---
+
+# 🚀 Quick Start
+
+## 1. Create Environment
+
+```powershell
 py -3.11 -m venv .venv
 .\.venv\Scripts\Activate.ps1
+```
 
-2. Install core dependencies
+---
 
+## 2. Install Core Dependencies
+
+```powershell
 pip install torch torchvision
 pip install open-clip-torch
 pip install faiss-cpu
-pip install rasterio pillow numpy
+pip install rasterio
+pip install pillow
+pip install numpy
+```
 
-3. Build the mini metadata catalog
+---
 
+## 3. Build Satellite Metadata Catalog
+
+```powershell
 cd ORBITRACE
+
 python scripts\build_mini_catalog.py
+```
 
-4. Run semantic retrieval test
+Expected:
 
+```text
+CATALOG COMPLETE
+
+Images: 6
+AOIs: 3
+```
+
+---
+
+## 4. Test Semantic Search
+
+```powershell
 python scripts\test_mini_semantic.py "forest with winding roads"
+```
 
-5. Run local HRNet post-processing test
+The system returns ranked satellite observations with:
 
-python scripts\test_hrnet_local.py
-
-🔎 Example User Journey
-
-USER
-"Find areas with new construction near dense urban regions"
-
-        ↓
-
-REMOTECLIP
-Understands semantic intent
-
-        ↓
-
-FAISS
-Returns top matching satellite observations
-
-        ↓
-
-GEOSPATIAL CATALOG
-AOI + date + city + coordinates
-
-        ↓
-
-TEMPORAL PAIRING
-Older observation vs newer observation
-
-        ↓
-
-HRNET-W48
-Built-up probability maps
-
-        ↓
-
-CHANGE ENGINE
-Added / Removed / Persistent buildings
-
-        ↓
-
-ORBITRACE RESULT
-Map + before/after + overlay + metrics + evidence
-
-🏆 Winner-Level Features — Locked Roadmap
-
-1. Earliest Evidence Discovery
-
-Automatically determine the first observation where a meaningful change becomes visible.
-
-2. Evidence Timeline
-
-Display all available temporal observations as an interactive development timeline.
-
-3. Explainable Semantic Search
-
-Show why a satellite result matched the analyst's query instead of only returning a similarity score.
-
-4. Change Reliability Gate
-
-Evaluate image-pair quality before trusting a change result:
-
-Registration Quality       GOOD
-Cloud Obstruction          LOW
-Observation Compatibility  GOOD
-Change Confidence          HIGH
-
-5. Evidence Card / Investigation Report
-
-Generate a structured intelligence card containing:
-
-location
-
-source
-
+```text
+Similarity Score
 AOI
+Date
+City
+State
+Country
+```
 
-T1 / T2 dates
+---
 
-change type
+## 5. Test HRNet Local Change Analysis
 
-affected area
+```powershell
+python scripts\test_hrnet_local.py
+```
 
-model / parameters
+Outputs include:
 
-confidence
+```text
+probability_2017.png
+probability_2019.png
 
-before / after / overlay
+built_2017_mask.png
+built_2019_mask.png
 
-💡 Additional Future Capability
+added_buildings.png
+removed_buildings.png
 
-Similar-Site Discovery
+final_change_overlay.png
 
-After finding one significant change event:
+summary.json
+```
 
-“Find other locations with similar development patterns.”
+---
 
-This combines semantic retrieval with temporal change intelligence across the entire indexed archive.
+# 🛠️ Technology Stack
 
-📦 Dataset Strategy
+| Layer | Technology |
+|---|---|
+| Vision-Language Model | RemoteCLIP RN50 |
+| Vector Search | FAISS |
+| Change Detection | HRNet-W48 |
+| Satellite Dataset | SpaceNet-7 |
+| Geospatial Processing | Rasterio |
+| Image Processing | Pillow |
+| Numerical Processing | NumPy |
+| ML Runtime | PyTorch |
+| Metadata | JSON / CSV |
+| Database | SQLite planned |
+| API | FastAPI planned |
+| Frontend | Web dashboard |
 
-ORBITRACE currently uses SpaceNet-7 for multi-temporal urban-development imagery.
+---
 
-Publicly accessible archive discovered during development:
+# 🔐 Repository Policy
 
-Train AOIs       : 60
-Public Test AOIs : 20
----------------------
-Accessible AOIs  : 80
+Heavy datasets and model artifacts should **not** be pushed to GitHub.
 
-The system is designed so scaling from a mini archive to the full accessible archive becomes a batch indexing / inference operation, not a rewrite of the application.
-
-🔐 Repository Policy
-
-Heavy data and model artifacts should stay outside Git:
-
+```gitignore
 .venv/
 __pycache__/
 *.pyc
+
+.env
+.env.*
+
 *.pt
 *.pth
 *.ckpt
+
 *.npy
 *.tif
 *.tiff
+
 external/
 dataset/
 outputs/
+ORBITRACE/outputs/
+```
 
-The repository should contain code, configuration and lightweight metadata, while raw satellite imagery and model outputs remain in local storage.
+Raw satellite imagery and generated ML outputs are stored locally.
 
-🛠️ Technology Stack
+```text
+C:\ORBITRACE_DATA
+```
 
-Layer
+---
 
-Technology
+# 📌 Development Status
 
-Semantic Vision-Language Model
-
-RemoteCLIP RN50
-
-Vector Search
-
-FAISS
-
-Building Change Analysis
-
-HRNet-W48
-
-Geospatial Processing
-
-Rasterio
-
-Image Processing
-
-Pillow / NumPy
-
-ML Runtime
-
-PyTorch
-
-Metadata Catalog
-
-JSON / CSV → SQLite planned
-
-API
-
-FastAPI planned
-
-Frontend
-
-Web dashboard planned
-
-Data Source
-
-SpaceNet-7
-
-📌 Current Development Focus
-
-Semantic Retrieval     ✅
-Geospatial Catalog     ✅
-HRNet Local Adapter    ✅
+```text
+RemoteCLIP Semantic Retrieval      ✅
         ↓
-FAISS Finalization
+Geospatial Catalog                 ✅
         ↓
-Automatic T1/T2 Pairing
+3 AOI System Test                  ✅
         ↓
-Unified ORBITRACE Pipeline
+HRNet Local Adapter                ✅
         ↓
-Backend API
+FAISS Final Index                  🚧
         ↓
-Frontend
+Automatic T1/T2 Pairing            🚧
         ↓
-Winner-Level Intelligence Features
+Unified ORBITRACE Pipeline         🚧
+        ↓
+FastAPI Backend                    🚧
+        ↓
+Web Dashboard                      🚧
+        ↓
+Winner-Level Intelligence Layer
+```
 
-⚠️ Important Note
+---
 
-ORBITRACE is currently a research / hackathon prototype.
+# 🎯 Final Vision
 
-Validation numbers shown in this repository are based on a limited development and unseen-AOI POC experiment and must not be interpreted as production-grade accuracy.
+ORBITRACE aims to transform:
+
+```text
+Massive Satellite Archives
+```
+
+into:
+
+```text
+Searchable
+Explainable
+Temporal
+Geospatial Intelligence
+```
+
+An analyst should eventually be able to ask:
+
+> **“Where has major urban development occurred recently?”**
+
+and receive:
+
+```text
+Relevant Satellite Locations
++
+Observation Timeline
++
+Before / After Imagery
++
+Detected Change
++
+Change Percentage
++
+Geographical Location
++
+Evidence Report
+```
+
+---
+
+## ⚠️ Prototype Disclaimer
+
+ORBITRACE is currently a **research and hackathon prototype**.
+
+Current validation results are based on limited development and unseen-AOI testing and should **not be interpreted as production-grade accuracy**.
+
+---
 
 <div align="center">
 
-🛰️ ORBITRACE
+# 🛰️ ORBITRACE
 
-Search the Earth by meaning. Track how it changes over time.
+### Search the Earth by meaning.  
+### Track how it changes over time.
 
-Built for intelligent satellite-image retrieval, temporal analysis and geospatial evidence generation.
+**Semantic Satellite Retrieval • Temporal Analysis • Geospatial Intelligence**
 
 </div>
