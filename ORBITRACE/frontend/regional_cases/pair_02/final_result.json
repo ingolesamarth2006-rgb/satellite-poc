@@ -1,0 +1,151 @@
+{
+  "pair_id": "pair_02",
+  "location": "28A019R, Bidur-07, Bidur, Nuwakot, Bagamati Province, 45003, Nepal",
+  "coordinates": {
+    "latitude": 27.96713227912619,
+    "longitude": 85.17674446105957
+  },
+  "geospatial": {
+    "crs": "EPSG:4326",
+    "width": 549,
+    "height": 365,
+    "bands": 3,
+    "bounds": {
+      "west": 85.15206813812256,
+      "south": 27.952634171000383,
+      "east": 85.2014207839966,
+      "north": 27.981630387251993
+    }
+  },
+  "temporal_pair": {
+    "t1_path": "C:\\ORBITRACE_DATA\\india test pair\\pair 2\\T1.tif",
+    "t2_path": "C:\\ORBITRACE_DATA\\india test pair\\pair 2\\T2.tif"
+  },
+  "change_analysis": {
+    "method": "ROBUST_RGB_CHANGE_BASELINE",
+    "status": "PRELIMINARY",
+    "metrics": {
+      "changed_pixels": 39346,
+      "total_pixels": 200385,
+      "change_percent": 19.635202235696283,
+      "threshold": 0.24400348856300114
+    },
+    "area": {
+      "pixel_area_m2": 77.86751145292357,
+      "changed_area_m2": 3063775.1056267307,
+      "changed_area_km2": 3.0637751056267306,
+      "changed_area_hectares": 306.3775105626731,
+      "area_crs_epsg": 32645
+    },
+    "hotspots": {
+      "count": 54,
+      "largest_hotspot_pixels": 16431,
+      "largest_hotspot_area_m2": 1279441.080682987,
+      "largest_hotspot_area_hectares": 127.94410806829872,
+      "all_major_hotspots_pixels": [
+        16431,
+        4952,
+        2686,
+        2541,
+        1454,
+        1403,
+        1279,
+        1249,
+        1097,
+        909,
+        759,
+        553,
+        542,
+        374,
+        291,
+        285,
+        264,
+        248,
+        209,
+        188,
+        181,
+        172,
+        127,
+        99,
+        90,
+        83,
+        80,
+        73,
+        69,
+        64,
+        63,
+        56,
+        52,
+        49,
+        47,
+        40,
+        32,
+        23,
+        21,
+        20,
+        20,
+        19,
+        19,
+        18,
+        16,
+        14,
+        14,
+        13,
+        12,
+        10,
+        10,
+        10,
+        8,
+        8
+      ]
+    },
+    "interpretation": {
+      "change_type": "LIKELY VEGETATION LOSS",
+      "dominant_trend": "VEGETATION REDUCTION",
+      "dominant_category": "VEGETATION_LOSS",
+      "dominant_share_percent": 84.06445381995628,
+      "category_counts": {
+        "VEGETATION_GAIN": 24,
+        "VEGETATION_LOSS": 33076,
+        "SURFACE_BRIGHTENING": 5841,
+        "SURFACE_DARKENING": 327,
+        "MIXED": 78
+      },
+      "category_percentages": {
+        "VEGETATION_GAIN": 0.06099730595232044,
+        "VEGETATION_LOSS": 84.06445381995628,
+        "SURFACE_BRIGHTENING": 14.845219336145988,
+        "SURFACE_DARKENING": 0.8310882936003661,
+        "MIXED": 0.19824124434504142
+      },
+      "severity": "HIGH",
+      "note": "Preliminary RGB-based interpretation. It is not a calibrated semantic land-cover classifier."
+    },
+    "reliability": {
+      "gate_status": "PASS",
+      "reliability_level": "MEDIUM",
+      "checks": {
+        "alignment_pass": true,
+        "change_pixels_supported": true,
+        "spatial_hotspot_support": true,
+        "change_coverage_reasonable": true,
+        "image_size_usable": true
+      },
+      "note": "Rule-based evidence gate; not a confidence probability."
+    }
+  },
+  "artifacts": {
+    "t1_preview": "C:\\ORBITRACE_DATA\\india_results\\pair_02\\detection\\T1_aligned.png",
+    "t2_preview": "C:\\ORBITRACE_DATA\\india_results\\pair_02\\detection\\T2_reference.png",
+    "mask": "C:\\ORBITRACE_DATA\\india_results\\pair_02\\detection\\change_mask.png",
+    "overlay": "C:\\ORBITRACE_DATA\\india_results\\pair_02\\detection\\change_overlay.png",
+    "score": "C:\\ORBITRACE_DATA\\india_results\\pair_02\\detection\\change_score.png",
+    "quality_json": "C:\\ORBITRACE_DATA\\india_results\\pair_02\\detection\\quality.json",
+    "result_json": "C:\\ORBITRACE_DATA\\india_results\\pair_02\\detection\\change_result.json"
+  },
+  "pipeline_status": {
+    "geospatial": "PASS",
+    "change_detection": "COMPLETE",
+    "final_result": "READY"
+  }
+}

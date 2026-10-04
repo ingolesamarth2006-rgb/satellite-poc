@@ -1,0 +1,180 @@
+{
+  "pair_id": "pair_04",
+  "location": "Gaurisagar Tiniali, Amguri, Sivasagar, Assam, 785664, India",
+  "coordinates": {
+    "latitude": 26.90452831717169,
+    "longitude": 94.60035324096681
+  },
+  "geospatial": {
+    "crs": "EPSG:4326",
+    "width": 2198,
+    "height": 1462,
+    "bands": 3,
+    "bounds": {
+      "west": 94.50164794921876,
+      "south": 26.84597482976577,
+      "east": 94.69905853271486,
+      "north": 26.963081804577612
+    }
+  },
+  "temporal_pair": {
+    "t1_path": "C:\\ORBITRACE_DATA\\india test pair\\pair 4\\T1.tif",
+    "t2_path": "C:\\ORBITRACE_DATA\\india test pair\\pair 4\\T2.tif"
+  },
+  "change_analysis": {
+    "method": "ROBUST_RGB_CHANGE_BASELINE",
+    "status": "PRELIMINARY",
+    "metrics": {
+      "changed_pixels": 26507,
+      "total_pixels": 3213476,
+      "change_percent": 0.8248700161445114,
+      "threshold": 0.857367482355237
+    },
+    "area": {
+      "pixel_area_m2": 79.17121303164524,
+      "changed_area_m2": 2098591.3438298204,
+      "changed_area_km2": 2.0985913438298205,
+      "changed_area_hectares": 209.85913438298203,
+      "area_crs_epsg": 32646
+    },
+    "hotspots": {
+      "count": 65,
+      "largest_hotspot_pixels": 14435,
+      "largest_hotspot_area_m2": 1142836.460111799,
+      "largest_hotspot_area_hectares": 114.2836460111799,
+      "all_major_hotspots_pixels": [
+        14435,
+        4290,
+        1099,
+        1062,
+        708,
+        523,
+        466,
+        452,
+        420,
+        415,
+        309,
+        246,
+        220,
+        162,
+        135,
+        128,
+        110,
+        101,
+        96,
+        80,
+        68,
+        66,
+        60,
+        48,
+        44,
+        43,
+        41,
+        37,
+        35,
+        34,
+        32,
+        29,
+        28,
+        25,
+        23,
+        23,
+        23,
+        22,
+        22,
+        22,
+        21,
+        19,
+        18,
+        17,
+        17,
+        17,
+        16,
+        16,
+        15,
+        15,
+        14,
+        14,
+        13,
+        12,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        9,
+        8,
+        8,
+        8,
+        8
+      ]
+    },
+    "interpretation": {
+      "change_type": "TEMPORARY / ATMOSPHERIC CHANGE",
+      "dominant_trend": "CLOUD / HAZE INFLUENCE",
+      "dominant_category": "ATMOSPHERIC_INTERFERENCE",
+      "dominant_share_percent": 79.13758629795903,
+      "category_counts": {
+        "VEGETATION_GAIN": 549,
+        "VEGETATION_LOSS": 398,
+        "SURFACE_BRIGHTENING": 25259,
+        "SURFACE_DARKENING": 301,
+        "MIXED": 0
+      },
+      "category_percentages": {
+        "VEGETATION_GAIN": 2.071151016712567,
+        "VEGETATION_LOSS": 1.5014901724072887,
+        "SURFACE_BRIGHTENING": 95.29180971064247,
+        "SURFACE_DARKENING": 1.1355491002376732,
+        "MIXED": 0.0
+      },
+      "severity": "LOW",
+      "note": "Detected visual change strongly overlaps cloud/haze-like RGB regions. Persistent land-cover change is therefore not confirmed.",
+      "persistent_ground_change": "NOT CONFIRMED",
+      "cloud_influence": "HIGH"
+    },
+    "reliability": {
+      "gate_status": "REVIEW",
+      "reliability_level": "LOW",
+      "checks": {
+        "alignment_pass": true,
+        "change_pixels_supported": true,
+        "spatial_hotspot_support": true,
+        "change_coverage_reasonable": true,
+        "image_size_usable": true,
+        "atmospheric_interference_low": false
+      },
+      "note": "Rule-based evidence gate; not a confidence probability.",
+      "reason": "High atmospheric/cloud influence on detected change."
+    },
+    "atmospheric_guard": {
+      "pair_id": "pair_04",
+      "method": "RGB_ATMOSPHERIC_CHANGE_GUARD",
+      "changed_pixels": 26507,
+      "atmospheric_overlap_pixels": 20977,
+      "atmospheric_overlap_percent": 79.13758629795903,
+      "new_atmospheric_overlap_pixels": 20507,
+      "new_atmospheric_overlap_percent": 77.36446976270419,
+      "mean_changed_brightness_delta": 0.8625868558883667,
+      "dominant_category_before_guard": "ATMOSPHERIC_INTERFERENCE",
+      "dominant_share_before_guard": 79.13758629795903,
+      "atmospheric_override": true,
+      "cloud_influence": "HIGH"
+    }
+  },
+  "artifacts": {
+    "t1_preview": "C:\\ORBITRACE_DATA\\india_results\\pair_04\\detection\\T1_aligned.png",
+    "t2_preview": "C:\\ORBITRACE_DATA\\india_results\\pair_04\\detection\\T2_reference.png",
+    "mask": "C:\\ORBITRACE_DATA\\india_results\\pair_04\\detection\\change_mask.png",
+    "overlay": "C:\\ORBITRACE_DATA\\india_results\\pair_04\\detection\\change_overlay.png",
+    "score": "C:\\ORBITRACE_DATA\\india_results\\pair_04\\detection\\change_score.png",
+    "quality_json": "C:\\ORBITRACE_DATA\\india_results\\pair_04\\detection\\quality.json",
+    "result_json": "C:\\ORBITRACE_DATA\\india_results\\pair_04\\detection\\change_result.json"
+  },
+  "pipeline_status": {
+    "geospatial": "PASS",
+    "change_detection": "COMPLETE",
+    "final_result": "READY"
+  }
+}

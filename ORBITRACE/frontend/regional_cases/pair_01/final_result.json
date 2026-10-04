@@ -1,0 +1,101 @@
+{
+  "pair_id": "pair_01",
+  "location": "Loni Kalbhor, Haveli Subdistrict, Pune District, Maharashtra, 412200, India",
+  "coordinates": {
+    "latitude": 18.4903286920267,
+    "longitude": 74.02583599090578
+  },
+  "geospatial": {
+    "crs": "EPSG:4326",
+    "width": 137,
+    "height": 91,
+    "bands": 3,
+    "bounds": {
+      "west": 74.01966691017152,
+      "south": 18.486436760834884,
+      "east": 74.03200507164003,
+      "north": 18.49422062321852
+    }
+  },
+  "temporal_pair": {
+    "t1_path": "C:\\ORBITRACE_DATA\\india test pair\\pair 1\\T1.tif",
+    "t2_path": "C:\\ORBITRACE_DATA\\india test pair\\pair 1\\T2.tif"
+  },
+  "change_analysis": {
+    "method": "ROBUST_RGB_CHANGE_BASELINE",
+    "status": "PRELIMINARY",
+    "metrics": {
+      "changed_pixels": 67,
+      "total_pixels": 12467,
+      "change_percent": 0.537418785593968,
+      "threshold": 0.44713916727155445
+    },
+    "area": {
+      "pixel_area_m2": 89.99972734412357,
+      "changed_area_m2": 6029.981732056279,
+      "changed_area_km2": 0.006029981732056279,
+      "changed_area_hectares": 0.6029981732056279,
+      "area_crs_epsg": 32643
+    },
+    "hotspots": {
+      "count": 4,
+      "largest_hotspot_pixels": 28,
+      "largest_hotspot_area_m2": 2519.99236563546,
+      "largest_hotspot_area_hectares": 0.251999236563546,
+      "all_major_hotspots_pixels": [
+        28,
+        23,
+        8,
+        8
+      ]
+    },
+    "interpretation": {
+      "change_type": "LIKELY SURFACE DARKENING / MOISTURE CHANGE",
+      "dominant_trend": "DARK-SURFACE INCREASE",
+      "dominant_category": "SURFACE_DARKENING",
+      "dominant_share_percent": 88.05970149253731,
+      "category_counts": {
+        "VEGETATION_GAIN": 5,
+        "VEGETATION_LOSS": 3,
+        "SURFACE_BRIGHTENING": 0,
+        "SURFACE_DARKENING": 59,
+        "MIXED": 0
+      },
+      "category_percentages": {
+        "VEGETATION_GAIN": 7.462686567164178,
+        "VEGETATION_LOSS": 4.477611940298507,
+        "SURFACE_BRIGHTENING": 0.0,
+        "SURFACE_DARKENING": 88.05970149253731,
+        "MIXED": 0.0
+      },
+      "severity": "LOW",
+      "note": "Preliminary RGB-based interpretation. It is not a calibrated semantic land-cover classifier."
+    },
+    "reliability": {
+      "gate_status": "PASS",
+      "reliability_level": "MEDIUM",
+      "checks": {
+        "alignment_pass": true,
+        "change_pixels_supported": true,
+        "spatial_hotspot_support": true,
+        "change_coverage_reasonable": true,
+        "image_size_usable": true
+      },
+      "note": "Rule-based evidence gate; not a confidence probability."
+    }
+  },
+  "artifacts": {
+    "t1_preview": "C:\\ORBITRACE_DATA\\india_results\\pair_01\\detection\\T1_aligned.png",
+    "t2_preview": "C:\\ORBITRACE_DATA\\india_results\\pair_01\\detection\\T2_reference.png",
+    "mask": "C:\\ORBITRACE_DATA\\india_results\\pair_01\\detection\\change_mask.png",
+    "overlay": "C:\\ORBITRACE_DATA\\india_results\\pair_01\\detection\\change_overlay.png",
+    "score": "C:\\ORBITRACE_DATA\\india_results\\pair_01\\detection\\change_score.png",
+    "quality_json": "C:\\ORBITRACE_DATA\\india_results\\pair_01\\detection\\quality.json",
+    "result_json": "C:\\ORBITRACE_DATA\\india_results\\pair_01\\detection\\change_result.json"
+  },
+  "pipeline_status": {
+    "geospatial": "PASS",
+    "change_detection": "COMPLETE",
+    "final_result": "READY"
+  }
+}
